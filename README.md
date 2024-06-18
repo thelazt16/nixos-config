@@ -78,3 +78,4 @@ NixOS options are used to configure various aspects of the system. They are defi
 - [Vimjoyer: Nix tutorials](https://www.youtube.com/playlist?list=PLko9chwSoP-15ZtZxu64k_CuTzXrFpxPE)
 - [No Boilerplate: NixOS: Everything Everywhere All at Once](https://www.youtube.com/watch?v=CwfKlX3rA6E)
 - [Matthew Croughan: What Nix Can Do (Docker Can't) - SCaLE 20x](https://www.youtube.com/watch?v=6Le0IbPRzOE)
+- [Jake Hamilton: NixOS Flake Tour](https://www.youtube.com/watch?v=ARjAsEJ9WVY) is what I want for my end game NixOS configuration.
