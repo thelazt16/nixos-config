@@ -1,4 +1,4 @@
-# WIP or dropped for now !!!
+# ~~WIP or~~ **DROPPED** for now !!!
 
 This repo is created to track my config and current opinion regarding whether I should keep migrating to NixOS or not. Does the time I spend learning Nix worth the outcome (which I still think it is but should I?). In case I decided to drop it now, I can just go back to this repo and figure out what I did and learn from that.
 
