@@ -79,3 +79,8 @@ NixOS options are used to configure various aspects of the system. They are defi
 - [No Boilerplate: NixOS: Everything Everywhere All at Once](https://www.youtube.com/watch?v=CwfKlX3rA6E)
 - [Matthew Croughan: What Nix Can Do (Docker Can't) - SCaLE 20x](https://www.youtube.com/watch?v=6Le0IbPRzOE)
 - [Jake Hamilton: NixOS Flake Tour](https://www.youtube.com/watch?v=ARjAsEJ9WVY) is what I want for my end game NixOS configuration.
+
+### Probably what I should have done before going Nix
+- [Zero to Nix](https://zero-to-nix.com/)
+- [Guide to Nix](https://nixos.org/guides/nix-pills/)
+- [Nix Starter Config](https://github.com/Misterio77/nix-starter-configs) is amazing to start adding modularity to your Nix's configuration.
